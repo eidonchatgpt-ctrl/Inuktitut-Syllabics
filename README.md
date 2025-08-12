@@ -1,2 +1,2 @@
 # Inuktitut-Syllabics
-Flashcard app
+Flashcard app for learning Inuktitut Syllabics
