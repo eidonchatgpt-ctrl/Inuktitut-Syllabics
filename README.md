@@ -1,0 +1,2 @@
+# Inuktitut-Syllabics
+Flashcard app
